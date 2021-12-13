@@ -1,0 +1,29 @@
+*{
+    padding: 8px;
+}
+body{
+    size: 100%;
+}
+.head{
+    display: flex;
+}
+.head>.b{
+    display: flex;
+    margin-left: 50pc;
+
+}
+.img{
+    size: 100%;
+}
+.content{
+    display: flex;
+}
+.content>.c{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    font-size: 25px;
+}

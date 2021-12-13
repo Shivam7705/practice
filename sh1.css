@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: white;
+    height: 100%;
+    grid-template: 1fr 2fr 1fr;
+}
+.leftbar{
+    grid-column: auto;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px;
+}

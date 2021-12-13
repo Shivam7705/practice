@@ -1,0 +1,24 @@
+*{
+    background-color: cyan;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    height: 50px;
+    background-color: blue;
+    text-align: center;
+}
+.B{
+    display: flex;
+    box: sizing 5px; ;
+}
+.A{
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.contert{
+    display: 55vh;
+}
